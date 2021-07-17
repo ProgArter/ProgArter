@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail- betarukja52@gmail.com
+- 📫 How to reach me....
 
 <!---
 ProgArter/ProgArter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
